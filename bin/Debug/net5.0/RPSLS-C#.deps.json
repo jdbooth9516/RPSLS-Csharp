@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RPSLS-C#/1.0.0": {
+        "runtime": {
+          "RPSLS-C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPSLS-C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

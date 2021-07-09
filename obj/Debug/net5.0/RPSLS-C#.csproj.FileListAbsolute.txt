@@ -1,0 +1,16 @@
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/RPSLS-C#
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/RPSLS-C#.deps.json
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/RPSLS-C#.runtimeconfig.json
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/RPSLS-C#.runtimeconfig.dev.json
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/RPSLS-C#.dll
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/ref/RPSLS-C#.dll
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/bin/Debug/net5.0/RPSLS-C#.pdb
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.csproj.AssemblyReference.cache
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.AssemblyInfoInputs.cache
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.AssemblyInfo.cs
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.csproj.CoreCompileInputs.cache
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.dll
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/ref/RPSLS-C#.dll
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.pdb
+/home/jeremiahbooth/Desktop/coding/Class/C#/RPSLS-C#/obj/Debug/net5.0/RPSLS-C#.genruntimeconfig.cache
