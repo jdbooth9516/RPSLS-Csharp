@@ -6,12 +6,12 @@ namespace RPSLS_C_
 {
     public class Menu
     {
-        public int validEntry;
+        public bool validEntry;
          public Menu()
         {
             this.validEntry = false;
         }
-        static void MainMenu()
+        public void MainMenu()
         {
             Console.WriteLine($"Welcome ot Rock, Paper, Scisoors, Lizard, Spock!");
             Thread.Sleep(1500);
@@ -25,7 +25,28 @@ namespace RPSLS_C_
             Thread.Sleep(1500);
             Console.WriteLine($"when choosing a gesture hit a single number and hit enter the number that you have selected will not be displayed in terminal.");
             Thread.Sleep(1500);
+        }
 
+        public int getNumberOfPlayers()
+        {  
+            int numberOfPlayers = 0;
+            while (this.validEntry == false) 
+            {
+                Console.WriteLine("Enter the number of players: (1 or 2)");
+                string playerInput;
+                playerInput = Console.ReadLine();
+                numberOfPlayers = Convert.ToInt16(playerInput);
+                if (numberOfPlayers != 1 && numberOfPlayers != 2)
+                {
+                    Console.WriteLine("Invalid input please try again");
+                }
+                else
+                {
+                    this.validEntry = true;
+                    return numberOfPlayers;
+                }
+            }
+            return numberOfPlayers;
         }
     }    
 }

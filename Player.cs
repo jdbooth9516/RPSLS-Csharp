@@ -1,3 +1,5 @@
+using System;
+
 namespace RPSLS_C_
 {
     public class Player
@@ -10,8 +12,9 @@ namespace RPSLS_C_
     {
         public void setName()
         {
+            string userName;
             Console.WriteLine("Enter your name:");
-            string userName = Console.ReadLine();
+            userName = Console.ReadLine();
             this.name = userName;
         }
 
